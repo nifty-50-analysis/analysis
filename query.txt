@@ -1,0 +1,9 @@
+1)Simple moving avg=sum(close)/period
+A simple moving average (SMA) is an arithmetic moving average calculated by adding recent prices and 
+then dividing that figure by the number of time periods in the calculation average.
+The simplest use of an SMA in technical analysis is using it to quickly determine if an asset is in an uptrend or downtrend.
+
+2)EMA
+3)Resistance
+4)Support
+5)
