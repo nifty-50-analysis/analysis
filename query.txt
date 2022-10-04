@@ -6,3 +6,16 @@ The simplest use of an SMA in technical analysis is using it to quickly determin
 2) Exponential Moving Average
 3) Resistance
 4) Support
+
+5) Highest and Lowest Trades in each year
+6) Average Trades in each year (Plot the graph)
+7) Compare the simple moving averages of both companies (Plot the graph)
+8) Compare the exponential moving averages of both companies (Plot the graph)
+9) Plot pie chart for the trades which happen in each of the 12 months to find the best month for both companies
+10) Briefly state the impact of demonetization on the performance of both companies
+11) Briefly state the impact of COVID-19 on the performance of both companies
+12) Plot pie chart for the trades which happen in each of the 7 days to find the best day for both companies
+13) Based on the previous data, how likely is it that the price of stock will increase in a day? (Compare "Close" and "Open")
+14) Find the correlation and covariance between the "Close" and "Open" of both companies
+15) Find the correlation and covariance between the "Low" and "High" of both companies
+16) Plot a boxplot of both companies to find the outliers
