@@ -31,3 +31,4 @@ The simplest use of an SMA in technical analysis is using it to quickly determin
 22) Analyze the impact of BJP's reign on the performance of both companies
 23) Calculate the average of differences between "Close" and "Open" of both companies
 24) Plot the kernel density plot for differences between "Close" and "Open" of both companies
+25) Plot the Open, Close, High and Low prices of both companies to see how they fluctuate
