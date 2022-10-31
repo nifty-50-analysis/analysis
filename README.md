@@ -4,4 +4,4 @@ This Jupyter notebook aims to analyze the trends of two of the largest companies
 
 The dataset is taken from Kaggle. Link: https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 
-Still under work.
+
